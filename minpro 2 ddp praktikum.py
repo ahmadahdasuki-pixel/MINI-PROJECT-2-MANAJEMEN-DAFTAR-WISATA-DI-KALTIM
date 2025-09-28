@@ -68,11 +68,11 @@ def delete_data():
         if nama in daftar_wisata:
             del daftar_wisata[nama]
             print(f"wisata {nama.title()} berhasil di hapus")
+        else:
+            print("wisata tidak di temukan")
     except KeyboardInterrupt:
         print("JANGAN CRTL+C YAHHHH")
 
-    else:
-        print("wisata tidak di temukan")
 
 #MENUUU
 def menu(role):
@@ -145,6 +145,7 @@ def login():
 
 
 login()
+
 
 
 
