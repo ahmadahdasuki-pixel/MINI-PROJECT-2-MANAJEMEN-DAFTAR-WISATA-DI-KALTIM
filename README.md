@@ -43,6 +43,7 @@ lalu lanjut sistem login akan menginstruksikan untuk menginput password yang sud
 
 
 
+
 **MENU MANAJER**
 
 <img width="970" height="290" alt="image" src="https://github.com/user-attachments/assets/3bf699b4-e852-4f20-9c33-0875d09d092a" />
@@ -55,7 +56,7 @@ ini adalah output pilihan 1 yaitu menampilkan daftar wisata yang sudah kita buat
 
 <img width="400" height="351" alt="image" src="https://github.com/user-attachments/assets/83e48ed8-3854-419a-a180-10a6ae1fb0d0" />
 
-selanjutnya program akan terus berulang dan menampilkan menu utama yang hanya bisa di akses oleh manajer dan disini saya menginput pilihan kedua yaitu menambah daftar wisata,jadi saya menambah wisata baru,lokasi, dan harga tiket untuk wisata baru tersebut.ouput akan menampilkan data wisata baru berhasilkan di tambahkan.
+selanjutnya program akan terus berulang dan menampilkan menu utama yang hanya bisa di akses oleh manajer dan disini saya menginput pilihan 2 yaitu menambah daftar wisata,jadi saya menambah wisata baru,lokasi, dan harga tiket untuk wisata baru tersebut.ouput akan menampilkan data wisata baru berhasilkan di tambahkan.
 
 **ValueError**
 <img width="488" height="355" alt="image" src="https://github.com/user-attachments/assets/4d745fad-4783-4ecf-96e0-627d49f35971" />
