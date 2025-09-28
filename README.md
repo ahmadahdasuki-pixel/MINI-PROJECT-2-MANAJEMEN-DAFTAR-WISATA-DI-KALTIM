@@ -10,3 +10,16 @@ PRAKTIKUM DASAR-DASAR PEMOGRAMAN
 
 **CODINGAN**
 
+<img width="782" height="283" alt="image" src="https://github.com/user-attachments/assets/70244bab-7f9a-4005-80ec-b4591390f2c9" />
+
+<img width="788" height="454" alt="image" src="https://github.com/user-attachments/assets/008bb790-a297-4157-888c-af2e9ff4db2a" />
+
+<img width="798" height="528" alt="image" src="https://github.com/user-attachments/assets/fd249fac-6a00-489d-9d61-63b20501d95c" />
+
+**OUTPUT DAN ERROR HANDLING**
+
+
+
+
+
+
