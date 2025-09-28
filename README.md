@@ -18,7 +18,7 @@ PRAKTIKUM DASAR-DASAR PEMOGRAMAN
 
 <img width="788" height="454" alt="image" src="https://github.com/user-attachments/assets/008bb790-a297-4157-888c-af2e9ff4db2a" />
 
-<img width="798" height="528" alt="image" src="https://github.com/user-attachments/assets/fd249fac-6a00-489d-9d61-63b20501d95c" />
+<img width="687" height="489" alt="image" src="https://github.com/user-attachments/assets/99996302-e0b2-465f-914f-f5a864237810" />
 
 <img width="781" height="551" alt="image" src="https://github.com/user-attachments/assets/3a481fc0-46a7-43ca-9cd1-2bf99e3dd123" />
 
