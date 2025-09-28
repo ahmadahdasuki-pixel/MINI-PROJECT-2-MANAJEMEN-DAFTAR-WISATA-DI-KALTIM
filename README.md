@@ -16,6 +16,14 @@ PRAKTIKUM DASAR-DASAR PEMOGRAMAN
 
 <img width="798" height="528" alt="image" src="https://github.com/user-attachments/assets/fd249fac-6a00-489d-9d61-63b20501d95c" />
 
+<img width="781" height="551" alt="image" src="https://github.com/user-attachments/assets/3a481fc0-46a7-43ca-9cd1-2bf99e3dd123" />
+
+<img width="666" height="357" alt="image" src="https://github.com/user-attachments/assets/44cc2c3e-a3bb-49a3-aca9-b2e343af6225" />
+
+<img width="703" height="311" alt="image" src="https://github.com/user-attachments/assets/15fed203-ddc5-40aa-934e-8dee55d9b9e2" />
+
+
+
 **OUTPUT DAN ERROR HANDLING**
 
 
