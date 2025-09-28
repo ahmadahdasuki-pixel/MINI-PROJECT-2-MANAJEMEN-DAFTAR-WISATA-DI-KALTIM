@@ -1,9 +1,13 @@
 #MINI PROJECT 2 MANAJEMEN DAFTAR WISATA DI KALTIM
 
 NAMA: AHMAD AHDASUKI
+
 NIM: 2509116021
+
 KELAS: A SISTEM INFORMASI
+
 PRAKTIKUM DASAR-DASAR PEMOGRAMAN
+
 
 **FLOWCHART**
 <img width="1879" height="2120" alt="image" src="https://github.com/user-attachments/assets/63f60940-a82c-4afe-a086-fbe03051a111" />
